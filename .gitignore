@@ -1,0 +1,10 @@
+.*
+!/.gitignore
+/Build
+/_build/
+/blib/
+/META.*
+/MYMETA.*
+/pm_to_blib
+*.tar.gz
+releases

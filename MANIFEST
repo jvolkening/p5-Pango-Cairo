@@ -1,0 +1,10 @@
+Changes
+lib/Pango/Cairo.pm
+share/PangoCairo-1.0.typelib
+t/pangocairo.t
+Build.PL
+MANIFEST
+README.md
+LICENSE
+META.yml
+META.json
